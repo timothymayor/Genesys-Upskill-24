@@ -32,6 +32,54 @@
         </ul>
         By using semantic HTML elements, developers can improve the accessibility, SEO, and maintainability of their web pages.
     </p>
+    <br />
+
+    <h3>Explain the disparity between closing tags and self-closing tags in HTML</h3>
+    <p>
+        In HTML, most elements have a start tag to indicate the beginning of the element's content and an end tag to indicate the end of the element's content. 
+
+        For example:
+        <p>This is a paragraph.</p>
+
+        In contrast, self-closing tags are used for elements that do not have any content or do not require separate closing tags. Instead, these elements can be closed within the start tag itself. 
+
+        For example:
+        <img src="image.jpg" alt="Description">
+
+        In this case, the <img> tag is self-closed because it doesn't have any content to enclose. 
+        Similarly, other elements like "br", "hr", and "input" are also self-closing.
+
+        It's important to note that in HTML, the use of self-closing tags is required for some elements, while for others, it's a matter of preference or best practice.
+    </p>
+    <br />
+
+    <h3>What distinguishes inline elements from block elements in HTML?</h3>
+    <p>
+        In HTML, block-level elements and inline elements differ in their behavior and how they interact with other elements on the page.
+
+        Block-level elements:
+        <ul>
+            <li>Typically start on a new line and take up the full width available.</li>
+            <li>
+                Examples of block-level elements include <div>, <p>, <h1>, <h6>, <ul>, <ol>, <li>, <table>, <form>.
+            </li>
+            <li>They can contain other block-level and inline elements.</li>
+        </ul>
+
+        Inline elements:
+        <ul>
+            <li>Do not start on a new line and only take up as much width as necessary.</li>
+            <li>Examples of inline elements include <span>, <a>, <strong>, <em>, <img>.</li>
+            <li>They do not force a new line to begin after them.</li>
+            <li>They can only contain other inline elements or data.</li>
+        </ul>
+
+        Understanding the distinction between block-level and inline elements is important for controlling the layout and structure of a webpage. <br />
+        Additionally, there are elements that have been introduced in HTML5, such as <header>, <footer>, <nav>, <article>, <section>, and <aside>, <br />
+        which are considered "block-level" for the purpose of layout and structure, <br />
+        but also bring semantic meaning to the content contained within them.<br />
+
+    </p>
         
 </body>
 </html>
