@@ -1,5 +1,5 @@
 
-## Week 2 Task:
+## Week 2 Task
 
 - Give a detailed description of yourself, including your aspirations and objectives regarding Upskill, utilizing the tags we covered in this week's class.
 Additionally, include all relevant social links you possess using the appropriate tags. 
