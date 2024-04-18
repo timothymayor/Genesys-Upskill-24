@@ -10,5 +10,6 @@
 4. For the radio button, use Genesys Upskill instead of GeeksForGeeks.
 
 ## Submission
-Deadline - 12:00 noon; Wednesday, 24th April 2024 
-[Submit Here](https://docs.google.com/forms/d/e/1FAIpQLSePjlnagSCQKlrmm0ELkj3dBNlsGAAf1QyJDQhGuFDCyufOiA/viewform)
+* Deadline - 12:00 noon; Wednesday, 24th April 2024 
+
+* [Submit Here](https://docs.google.com/forms/d/e/1FAIpQLSePjlnagSCQKlrmm0ELkj3dBNlsGAAf1QyJDQhGuFDCyufOiA/viewform)
